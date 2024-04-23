@@ -15,21 +15,25 @@ impl Solution {
     pub fn two_sum(nums: Vec<i32>, target: i32) ->Vec<i32> {
         let mut result_vec:Vec<i32> = Vec::new();
 
-        let mut map =  HashMap::new();
         let len = nums.len();
+        if len < 2 {
+            result_vec
+        } else {
+            let mut map =  HashMap::new();
 
-        for i in 0..len {
-            let current_item = nums[i];
-            let another_item = target - current_item;
-            if let Some(another_index) = map.get(&another_item) {
-                result_vec.push(*another_index as i32);
-                result_vec.push(i as i32);
-                break;
+            for i in 0..len {
+                let current_item = nums[i];
+                let another_item = target - current_item;
+                if let Some(another_index) = map.get(&another_item) {
+                    result_vec.push(i as i32);
+                    result_vec.push(*another_index as i32);
+                    break;
+                }
+                map.insert(current_item, i);
             }
-            map.insert(current_item, i);
-        }
 
-        result_vec
+            result_vec
+        }
     }
 }
 
