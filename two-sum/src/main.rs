@@ -1,4 +1,4 @@
-pub mod solution;
+mod solution;
 
 use crate::solution::Solution;
 
