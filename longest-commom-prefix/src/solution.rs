@@ -13,8 +13,10 @@
 // Input: strs = ["dog","racecar","car"]
 // Output: ""
 // Explanation: There is no common prefix among the input strings.
+///最长字符串，一开始思路是计算数组的长度，然后从前第一个字符串开始遍历，依次与剩下的开始比较，
+/// 相等则推进到数组里，当数组长度与原字符串数组的长度-1则代表，还要记录中断的状态，常规思路，破费周折。
 ///
-///
+/// 后面要做优化，只能减少遍历次数
 
 pub struct Solution;
 
@@ -76,12 +78,12 @@ impl Solution {
         let mut longest_prefix = "".to_string();
         let mut is_broken = false;
         for char in first_str.chars() {
-            for index in 0..strs.len() {
+            for index in 1..strs.len() {
                 let str_clone = strs.clone();
                 if let Some(result ) = str_clone[index].get(start_index..start_index+1) {
                     if result.to_string() == char.to_string() && !is_broken{
                         stack.push(result.to_string());
-                        if stack.len() == strs_len {
+                        if stack.len() == strs_len-1 {
                             longest_prefix += result;
                             stack = Vec::new();
                         }
