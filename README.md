@@ -4,4 +4,5 @@
 - [2024-04-25 链表里面的节点值等于某个数时移除掉](./remove-linked-list-elements)
 - [2024-04-26 判断是否循环链表](./linked-list-cycle)
 - [2024-04-27 合并两个有序链表](./merge-two-sorted-lists)
+- [2024-04-29 有效的括号](./valid-parentheses)
 
