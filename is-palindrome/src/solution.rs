@@ -1,5 +1,3 @@
-use std::fmt::format;
-
 /// 第二天-回文数字
 /// Input: x = 121
 /// Output: true
