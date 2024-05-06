@@ -7,4 +7,5 @@
 - [2024-04-28 有效的括号](./valid-parentheses)
 - [2024-04-29 最长公共前缀](./longest-commom-prefix)
 - [2024-05-01 移除元素](./remove-elements)
+- [2024-05-02 找到首次遇到目标字符串的索引](./find-first-occurence)
 
