@@ -12,4 +12,5 @@
 - [2024-05-03 找顺序插入的位置](./search-insert-position)
 - [2024-05-04 获取最后一个单词的长度](./last-word-length)
 - [2024-05-05 整数数组按顺序组成的数字加1](./integer-arr-plus-one)
+- [2024-05-06 二进制相加](./binary-add)
 
