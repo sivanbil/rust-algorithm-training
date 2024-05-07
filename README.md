@@ -10,4 +10,5 @@
 - [2024-05-01 移除元素](./remove-elements)
 - [2024-05-02 找到首次遇到目标字符串的索引](./find-first-occurence)
 - [2024-05-03 找顺序插入的位置](./search-insert-position)
+- [2024-05-04 获取最后一个单词的长度](./last-word-length)
 
