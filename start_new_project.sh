@@ -26,4 +26,7 @@ cd $project_name
 # 创建 title.md 文件并写入内容
 echo "$date $description" > title.md
 
+# 创建solution.rs
+echo "pub struct Solution;" > ./src/solution.rs
+
 echo "Project $project_name created successfully with title.md"
