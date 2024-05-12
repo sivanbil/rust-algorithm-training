@@ -45,7 +45,7 @@ process_directory "." ""
 sorted_dirs=$(sort "$temp_file")
 
 # 将排序后的目录信息写入 Markdown 文件
-echo "# 每日一题【from: 2024-04-23】" >> "$output_file"
+echo "# 每日一题【from: 2024-04-21】" >> "$output_file"
 while IFS='|' read -r date directory title; do
   markdown_links+="- [$title](./$directory)\n"
 done <<< "$sorted_dirs"
