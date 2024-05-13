@@ -21,4 +21,5 @@
 - [2024-05-10 在有序链表里删除重复的节点](./remove-duplicates-from-sorted-list)
 - [2024-05-11 合并两个有序数组](./merge-sorted-array)
 - [2024-05-12 判断两个字符串是否为同样结构的字符串](./isomorphic-strings)
+- [2024-05-13 根据层数来输出杨辉三角](./pascal-triangle)
 
