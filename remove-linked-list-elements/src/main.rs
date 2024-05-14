@@ -2,6 +2,7 @@ mod solution;
 
 use std::collections::linked_list;
 use crate::solution::{Solution, ListNode};
+// :https://leetcode.cn/problems/remove-linked-list-elements/description/
 fn main() {
     let mut linked_list = ListNode::new(1);
 

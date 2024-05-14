@@ -2,6 +2,7 @@ mod solution;
 use std::rc::Rc;
 use std::cell::RefCell;
 use crate::solution::{Node, Solution};
+// https://leetcode.cn/problems/linked-list-cycle/description/
 fn main() {
     // 创建一个循环链表
     let mut nodes = Vec::new();
