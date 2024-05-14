@@ -22,5 +22,6 @@
 - [2024-05-11 合并两个有序数组](./merge-sorted-array)
 - [2024-05-12 判断两个字符串是否为同样结构的字符串](./isomorphic-strings)
 - [2024-05-13 根据层数来输出杨辉三角](./pascal-triangle)
-- [2024-05-14 Pascal三角形-II](./pascal-triangle-II)
+- [2024-05-14 杨辉三角-II-根据层数返回对应层的数组](./pascal-triangle-II)
+- [2024-05-15 最佳买卖股票时间](./best-time-to-buy-and-sell-stock)
 
