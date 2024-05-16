@@ -24,4 +24,5 @@
 - [2024-05-13 根据层数来输出杨辉三角](./pascal-triangle)
 - [2024-05-14 杨辉三角-II-根据层数返回对应层的数组](./pascal-triangle-II)
 - [2024-05-15 最佳买卖股票时间](./best-time-to-buy-and-sell-stock)
+- [2024-05-16 只出现一次的数字](./single-number)
 
