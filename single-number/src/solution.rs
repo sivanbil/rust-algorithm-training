@@ -8,6 +8,22 @@ impl Solution {
     // 任何数与0异或等于它本身: a ^ 0 = a
     // 任何数与它自己异或等于0: a ^ a = 0
     // 异或运算满足交换律和结合律: a ^ b ^ a = (a ^ a) ^ b = 0 ^ b = b
+    // 数学运算+hashmap
+    pub fn single_number_math(nums: Vec<i32>) -> i32 {
+        let mut sum = 0;
+        let mut unique_sum = 0;
+        let mut seen = HashMap::new();
+
+        for num in nums {
+            sum += num;
+            if !seen.contains_key(&num) {
+                unique_sum += num;
+                seen.insert(num, true);
+            }
+        }
+
+        (unique_sum * 2 - sum) as i32
+    }
     pub fn single_number(nums: Vec<i32>) -> i32 {
         let mut once_number = nums[0];
         if nums.clone().len() == 1 {
