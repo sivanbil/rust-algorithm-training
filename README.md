@@ -26,4 +26,5 @@
 - [2024-05-15 最佳买卖股票时间](./best-time-to-buy-and-sell-stock)
 - [2024-05-16 只出现一次的数字](./single-number)
 - [2024-05-17 多数元素](./majority-element)
+- [2024-05-18 是否存在重复元素距离小于等于k](./check-duplicate-II)
 
