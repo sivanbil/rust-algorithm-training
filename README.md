@@ -40,4 +40,5 @@
 - [2024-05-29 找出满足工时条件的劳动者](./number-of-employees-meet-target-nums)
 - [2024-05-30 统计已测试设备数量](./count-tested-devices-num)
 - [2024-05-31 最小操作步骤](./min-operations)
+- [2024-06-01 找到包含特定字符的单词索引](./find-words-containing)
 
