@@ -39,4 +39,5 @@
 - [2024-05-28 找出首次峰值前后值](./find-the-peaks)
 - [2024-05-29 找出满足工时条件的劳动者](./number-of-employees-meet-target-nums)
 - [2024-05-30 统计已测试设备数量](./count-tested-devices-num)
+- [2024-05-31 最小操作步骤](./min-operations)
 
