@@ -37,4 +37,6 @@
 - [2024-05-26 最大子数组](./maximum-subarray)
 - [2024-05-27 查找具有指数和值差异的指数I](./find-indices)
 - [2024-05-28 找出首次峰值前后值](./find-the-peaks)
+- [2024-05-29 找出满足工时条件的劳动者](./number-of-employees-meet-target-nums)
+- [2024-05-30 统计已测试设备数量](./count-tested-devices-num)
 
