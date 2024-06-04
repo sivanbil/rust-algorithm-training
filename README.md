@@ -42,4 +42,6 @@
 - [2024-05-31 最小操作步骤](./min-operations)
 - [2024-06-01 找到包含特定字符的单词索引](./find-words-containing)
 - [2024-06-02 利用索引重建数组](./rebuild-array)
+- [2024-06-03 爬楼梯](./climb-stairs)
+- [2024-06-04 旋转字符串](./rotate-string)
 
