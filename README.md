@@ -44,4 +44,11 @@
 - [2024-06-02 利用索引重建数组](./rebuild-array)
 - [2024-06-03 爬楼梯](./climb-stairs)
 - [2024-06-04 旋转字符串](./rotate-string)
+- [2024-06-05 如何分配工人来获取最大收益](./worker-max-profit)
+- [2024-06-06 寻找重复数](./find-duplicated-nums)
+- [2024-06-07 丢失的数](./find-missing-nums)
+- [2024-06-08 搜索旋转排序的数](./find-roate-sorted-array)
+- [2024-06-09 三数之和](./three-sum)
+- [2024-06-10 分糖果](./distribute-candies)
+- [2024-06-11 寻找旋转数组中的最小值](./find-roate-array-min)
 
