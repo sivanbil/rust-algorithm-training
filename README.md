@@ -51,4 +51,10 @@
 - [2024-06-09 三数之和](./three-sum)
 - [2024-06-10 分糖果](./distribute-candies)
 - [2024-06-11 寻找旋转数组中的最小值](./find-roate-array-min)
+- [2024-06-12 甲板上战舰](./count-battleships)
+- [2024-06-13 旋转图像](./roate-image)
+- [2024-06-14 游戏人生](./game-of-life)
+- [2024-06-15 除自身以外数组的乘积](./product-except-self)
+- [2024-06-16 找出数组中所有重复元素](./duplicated-all-in-array)
+- [2024-06-17 螺旋矩阵](./generate-matrix)
 
